@@ -1076,13 +1076,13 @@ jQuery(function ($) {
 
         map = new GMaps({
             div: '#map_canvas',
-            lat: -12.043333,
-            lng: -77.028333
+            lat: -20.2119945,
+            lng: -70.1525676,
         });
         
         map.addMarker({
-            lat: -12.043333,
-            lng: -77.028333,
+            lat: -20.2119945,
+            lng: -70.1525676,
             title: 'Lima',
             click: function (e) {
                 alert('You clicked in this marker');
