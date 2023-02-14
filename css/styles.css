@@ -3301,7 +3301,7 @@ ul.custom-bullet-list.custom-icon li:before {
   font-size: 24px;
   line-height: 32px;
   letter-spacing: 0em;
-  margin-top: -32px;
+  margin-top: -75px;
   font-weight: 700;
   position: absolute;
   top: 50%;
@@ -7188,7 +7188,7 @@ footer .social-icons a:hover {
   }
   .main-header-2 .navbar-default .navbar-nav li a {
     font-weight: bold;
-    color: #0a1a3e;
+    color: #a37b20;
   }
   .main-header-2 .navbar-default .navbar-nav .drop-down li a {
     color: #FFFFFF;
