@@ -861,6 +861,14 @@ a.btn-load-more:hover {
   color: #FFFFFF;
   background: #bc961a;
 }
+.btn-theme-wsp {
+  color: #FFFFFF;
+  background: #1abc68;
+}
+.btn-theme-wsp:hover {
+  background: #090403;
+  color: #FFFFFF;
+}
 .btn-theme-invert:hover {
   background: #090403;
   color: #FFFFFF;
